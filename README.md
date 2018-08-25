@@ -1,2 +1,3 @@
 # MDD_H12_GobbleUP_App
-This project is for within an Organisation.
+
+Gone are the days when you visited a food court and  the rush made you wait for hours to enjoy your favourite snack. Imagine a platform that would enable you to order food from the point where you stand. Imagine a platform that would tell as to how much time you have to wait before the “Take Away”. The objective of this project is to provide a platform which would enable a user to enjoy food with almost zero wait time, at best price, and would delete unnecessary rush near the shops. Ever wondered ,how would it feel if one could get a chance to wave at the seller to push quick delivery. 
